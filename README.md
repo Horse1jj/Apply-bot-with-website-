@@ -90,7 +90,7 @@ npm run build:frontend
 npm start
 
 ``` 
-##usage
+## usage
 
 Visit the Web Dashboard: Open your browser and go to http://localhost:3000. You should see the application form.
 
@@ -98,7 +98,7 @@ Submit the Form: Fill out and submit the form. The bot will post your applicatio
 
 Discord Bot Status: The bot should be online and able to send messages to the channel defined in APPLICATION_CHANNEL_ID.
 
-#troubleshooting 
+## troubleshooting 
 
 Bot Not Responding: Ensure your bot token is correctly set in the .env file and that the bot has permission to send messages to the specified channel.
 
@@ -107,7 +107,7 @@ Server Not Starting: Make sure all dependencies are installed and that the .env 
 Frontend Not Displaying: If the frontend does not load, ensure that npm run build:frontend was successful and that the server is running.
 
 
-##Contributing
+## Contributing
 
 Feel free to submit pull requests to improve the project!
 
